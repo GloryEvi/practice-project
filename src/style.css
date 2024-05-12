@@ -1,0 +1,26 @@
+body {
+  background-color: #f8e8a6;
+}
+h1 {
+  text-align: center;
+}
+p {
+  text-align: center;
+  font-size: 18px;
+}
+img {
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 20px;
+  border-radius: 5px;
+}
+footer {
+  text-align: center;
+}
+a {
+  padding: 27px;
+  color: green;
+}
+.mail {
+  padding: 0px;
+}
